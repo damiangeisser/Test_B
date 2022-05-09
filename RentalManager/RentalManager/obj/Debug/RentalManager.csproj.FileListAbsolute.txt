@@ -1,0 +1,8 @@
+D:\Damian\Repos\RentalManager\RentalManager\obj\Debug\RentalManager.csproj.AssemblyReference.cache
+D:\Damian\Repos\RentalManager\RentalManager\obj\Debug\RentalManager.csproj.SuggestedBindingRedirects.cache
+D:\Damian\Repos\RentalManager\RentalManager\obj\Debug\RentalManager.csproj.CoreCompileInputs.cache
+D:\Damian\Repos\RentalManager\RentalManager\bin\Debug\RentalManager.exe.config
+D:\Damian\Repos\RentalManager\RentalManager\bin\Debug\RentalManager.exe
+D:\Damian\Repos\RentalManager\RentalManager\bin\Debug\RentalManager.pdb
+D:\Damian\Repos\RentalManager\RentalManager\obj\Debug\RentalManager.exe
+D:\Damian\Repos\RentalManager\RentalManager\obj\Debug\RentalManager.pdb
